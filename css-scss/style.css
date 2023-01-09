@@ -1,0 +1,25 @@
+.hide{
+    left:-300px;
+    width: 300px;
+}
+.show{
+    left:0px;
+    width: 300px;
+}
+.bl{
+    height: 2000px;
+    width: 100%;
+    display: block;
+    transition: all 2s;
+   
+}
+.nn{
+    display: none;
+    height: 2000px;
+        width: 100%;
+        transition: all 2s;
+}
+#icc{
+    color: white;
+
+}
